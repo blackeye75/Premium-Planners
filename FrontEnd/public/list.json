@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Basic Birthday Bliss",
+        "title":"Keep it simple yet stylish with our Basic Package! Includes venue coordination, basic decorations, and delicious food options for a hassle-free celebration.",
+        "price":1999,
+        "category":"Birthday",
+        "image":"https://plus.unsplash.com/premium_photo-1692880429643-c0f3c9489046?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":2,
+        "name":"Standard Birthday Spectacular",
+        "title":"Elevate your party experience with our comprehensive standard package, offering an array of features and enhancements to ensure a memorable and exciting celebration.",
+        "price":3999,
+        "category":"Birthday",
+        "image":"https://images.unsplash.com/photo-1604668915840-580c30026e5f?q=80&w=1948&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":3,
+        "name":"Premium Birthday Extravaganza",
+        "title":"Immerse yourself in luxury and celebration excellence with our top-tier premium package, curated to provide the ultimate birthday experience filled with opulence, extravagance, and unforgettable moments.",
+        "price":5999,
+        "category":"Birthday",
+        "image":"https://thejarvi.com/wp-content/uploads/2023/01/BIRTH004.jpg"
+    },
+    {
+        "id":4,
+        "name":"Basic Casual Party",
+        "title":"For relaxed gatherings, our Basic package offers simple decorations, snacks, and entertainment.",
+        "price":1999,
+        "category":"Causal Party",
+        "image":"https://images.unsplash.com/photo-1601118964938-228a89955311?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":5,
+        "name":"Standard Casual Party",
+        "title":"Upgrade your celebration with enhanced décor, catering options, and entertainment choices",
+        "price":3999,
+        "category":"Causal Party",
+        "image":"https://images.unsplash.com/photo-1517457373958-b7bdd4587205?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":6,
+        "name":"Premium Casual Party",
+        "title":"Indulge in luxury with upscale decorations, gourmet catering, and premium entertainment.",
+        "price":5999,
+        "category":"Causal Party",
+        "image":"https://images.unsplash.com/photo-1536940385103-c729049165e6?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":7,
+        "name":"Basic Wedding Package",
+        "title":"Our Basic package provides essential elements for a beautiful wedding, including basic decorations, a simple catering menu, and standard services",
+        "price":85999,
+        "category":"Wedding Event",
+        "image":"https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":8,
+        "name":"Standard Wedding Package",
+        "title":"Elevate your special day with our Standard package, featuring upgraded décor, a wider selection of catering options, and additional services to ensure a memorable celebration.",
+        "price":"May vary",
+        "category":"Wedding Event",
+        "image":"https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":9,
+        "name":"Premium Wedding Package",
+        "title":"For an extraordinary wedding experience, our Premium package offers luxurious decorations, gourmet catering with exquisite menus, and top-tier services to create an unforgettable and magical day for you and your guests.",
+        "price":"May vary",
+        "category":"Wedding Event",
+        "image":"https://images.unsplash.com/photo-1623788452350-4c8596ff40bb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":10,
+        "name":"Custom Event Planning",
+        "title":"Tailored to your unique vision, our Custom package offers personalized event coordination based on your specific preferences and requirements. From venue selection to decor, catering, entertainment, and more, we work closely with you to bring your dream event to life, ensuring every detail is executed to perfection.",
+        "price":"May vary",
+        "category":"Event",
+        "image":"https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}body,html{
+    background-color: white;
+    font-family: 'poppins'  ;
+    color: black;
+}.para{
+    font-weight: 100;
+}
+
+.marquee{
+    font-family: 'bebas neue';
+    font-size: large;
+    font-weight: bolder;
+   
+}
+@media (max-width:600px) {
+    .logo{
+        width: 17vw;
+    }#bsdk{
+    flex-direction: column-reverse;
+    }
+}
+
+
+  

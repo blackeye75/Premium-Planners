@@ -1,0 +1,62 @@
+[   
+    {
+        "id":1,
+        "name":"DJ Services",
+        "title":" Let the beats move you as our skilled DJs set the perfect mood for your event.",
+        "image":"https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":2,
+        "name":"Catering Excellence",
+        "title":"Indulge in a culinary journey with our gourmet catering, tailored to tantalize every palate.",
+        "image":"https://images.unsplash.com/photo-1555244162-803834f70033?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":3,
+        "name":"Cinematography Magic",
+        "title":"Capture every moment in cinematic splendor with our expert videography services.",
+        "image":"https://images.unsplash.com/photo-1486611367184-17759508999c?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":4,
+        "name":"Event Planning Expertise",
+        "title":"From concept to execution, trust our seasoned event planners to bring your vision to life.",
+        "image":"https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":5,
+        "name":"Decor & Design Brilliance",
+        "title":"From concept to execution, trust our seasoned event planners to bring your vision to life.",
+        "image":"https://images.unsplash.com/photo-1530103862676-de8c9debad1d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":6,
+        "name":"Photography Perfection",
+        "title":" Freeze time with our professional photographers, ensuring every smile and glance is immortalized.",
+        "image":"https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":7,
+        "name":"Entertainment Extravaganza",
+        "title":"Keep the excitement flowing with our array of entertainment options, guaranteed to dazzle guests.",
+        "image":"https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":8,
+        "name":"Technical Support",
+        "title":"Seamless audiovisual solutions and technical support to ensure your event runs flawlessly.",
+        "image":"https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":9,
+        "name":"Transportation Services",
+        "title":"Arrive in style and comfort with our transportation services, ensuring a grand entrance.",
+        "image":"https://images.unsplash.com/photo-1493238792000-8113da705763?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id":10,
+        "name":"On-site Coordination",
+        "title":"Relax and enjoy your event while our dedicated team handles every detail with precision and care.",
+        "image":"https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?q=80&w=2047&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
